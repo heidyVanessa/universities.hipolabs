@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
+import Menu from './Componentes/Menu'
 import Paises from './Componentes/Paises'
 import Nombres from './Componentes/Nombres'
-import Menu from './Componentes/Menu'
 import Lista from './Componentes/Lista'
 import Dominios from './Componentes/Dominios'
 
