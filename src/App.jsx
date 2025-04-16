@@ -18,7 +18,6 @@ function App() {
         <Route path="/" element={<Paises />} />
         <Route path="/" element={<Nombres />} />
         <Route path="/" element={<Menu />} />
-        <Route path="/" element={<Lista />} />
         <Route path="/" element={<Dominios />} />
       </Routes>
     </Router>  
